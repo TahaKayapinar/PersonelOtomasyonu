@@ -1,0 +1,11 @@
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\bin\Debug\99_OOP_Personel_Otomasyonu.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\bin\Debug\99_OOP_Personel_Otomasyonu.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\bin\Debug\99_OOP_Personel_Otomasyonu.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\99_OOP_Personel_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\99_OOP_Personel_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\_99_OOP_Personel_Otomasyonu.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\_99_OOP_Personel_Otomasyonu.Properties.Resources.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\99_OOP_Personel_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\99_OOP_Personel_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\99_OOP_Personel_Otomasyonu.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\6_Kasım_2022\99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu\obj\Debug\99_OOP_Personel_Otomasyonu.pdb

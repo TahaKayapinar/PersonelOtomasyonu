@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99_OOP_Personel_Otomasyonu", "99_OOP_Personel_Otomasyonu\99_OOP_Personel_Otomasyonu.csproj", "{15599B56-6684-4DE0-820B-F01E3A96E12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15599B56-6684-4DE0-820B-F01E3A96E12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15599B56-6684-4DE0-820B-F01E3A96E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15599B56-6684-4DE0-820B-F01E3A96E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15599B56-6684-4DE0-820B-F01E3A96E12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18056526-B215-498B-A1F1-BBFEA18334F9}
+	EndGlobalSection
+EndGlobal
